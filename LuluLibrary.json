@@ -1,13 +1,13 @@
 {
 	"META": {
-		"repoName": "Lulu Library v1.01",
+		"repoName": "Lulu Library v1.1",
 		"repoIcon": "https://i.ibb.co/g7DhhTy/4-AC4-C361-C036-40-B9-BD3-C-F0-CDC309429-D.png"
 	},
-	"Music": [{
+	"Tweaked Music": [{
 		"name": "Deezer",
 		"version": "7.15.0",
 		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/Deezer++iOS15.ipa",
-		"category": "Music",
+		"category": "Tweaked Music",
 		"description": "All Deezer premium features unlocked.",
 		"bundleID": "com.deezer.Deezer",
 		"appstore": "com.deezer.Deezer"
@@ -15,7 +15,7 @@
 		"name": "Spotify",
 		"version": "8.6.42",
 		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/Spotify.ipa",
-		"category": "Music",
+		"category": "Tweaked Music",
 		"description": "All Spotify premium features unlocked except for download.",
 		"bundleID": "com.spotify.client",
 		"appstore": "com.spotify.client",
@@ -26,7 +26,7 @@
 		],
 		"changelog": "- Spotilife Updated to v1.8"
 	}],
-	"Tweaked": [{
+	"Tweaked Apps": [{
 		"name": "uYou+",
 		"version": "18.14.1",
 		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/uYouPlus_18.14.1_3.0.ipa",
@@ -42,7 +42,6 @@
 	}, {
 		
 	}],
-	
 	"Emulators": [{
 		"name": "DolphiniOS",
 		"version": "3.2.1",
@@ -54,4 +53,21 @@
 	}, {
 		
 	}],
+	"Tweaked Games": [{
+		"name": "Clash Royale",
+		"version": "3.3074.6",
+		"icon": "https://i.ibb.co/JyrFgpg/channels4-profile.jpg",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/Clash_Royale_Z7MH.7Ki_v3.3074.6_6010303227440926049.ipa",
+		"category": "Tweaked Games",
+		"description": "Null's Royale for iOS!",
+		"enableBackup": true
+	}, {
+		"name": "Subway Surfers",
+		"version": "3.12.0",
+		"icon": "https://i.ibb.co/0fKBPD2/unnamed.png",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/com.kiloo.subwaysurfers-3.12.0-robert-appdb.ipa",
+		"category": "Tweaked Games",
+		"description": "Infinite coins and keys!",
+		"enableBackup": true
+	}],	
 }

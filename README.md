@@ -1,4 +1,4 @@
-Latest Version: v1.0
+Latest Version: v1.01
 
 # What is Lulu Library?
 
@@ -28,6 +28,9 @@ AltStore/SideStore ⛔️ (Coming soon)
 - uYou+
 
 # Changelog
+**v1.01** (5/21/2023)
+- Fixed bad download links.
+
 **v1.0** (5/21/2023)
 - Repo has been added!
 - DolphiniOS, Spotify, and uYou+ iPAs have been added.

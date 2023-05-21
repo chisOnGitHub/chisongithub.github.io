@@ -68,6 +68,8 @@
 		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/com.kiloo.subwaysurfers-3.12.0-robert-appdb.ipa",
 		"category": "Tweaked Games",
 		"description": "Infinite coins and keys!",
+		"bundleID": "com.kiloo.subwaysurfers",
+		"appstore": "com.kiloo.subwaysurfers",
 		"enableBackup": true
 	}],	
 }

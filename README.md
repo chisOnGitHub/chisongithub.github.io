@@ -5,7 +5,7 @@ Repo made by chisOnGitHub
 
 It is an all-in-one iOS IPA Library. Tweaked Apps, games, emulators, you name it.
 
-To install, [click this link](https://raw.githubusercontent.com/chisOnGitHub/chisongithub.github.io/main/LuluLibrary.json), copy it, and add it as a repo on Scarlet.
+To install, [click this link](https://pastebin.com/raw/WKe8GhBz), copy it, and add it as a repo on Scarlet.
 
 # Features:
 
@@ -31,6 +31,7 @@ To install, [click this link](https://raw.githubusercontent.com/chisOnGitHub/chi
 # Changelog
 **v1.1.2** (5/21/2023)
 - Fixed Subway Surfers iPA.
+- Changed JSON hosters. (Needs reinstall)
 
 **v1.1.1** (5/21/2023)
 - Removed Clash Royale as iPA does not work.

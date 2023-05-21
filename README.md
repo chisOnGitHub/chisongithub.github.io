@@ -1,12 +1,14 @@
 # What is Lulu Library?
 
 It is an all-in-one iOS IPA Library. Tweaked Apps, games, emulators, you name it.
-Currently Scarlet is the only app supported.
 
-# Cool, how do I get it?
+To install, click this link, copy it, and add it as a repo on Scarlet.
 
-Inside of Scarlet you need to add a repo. Click tje + and then go to this link and copy it into Scarlet.
-And you're done!
+# Sideloading Apps supported:
+
+Scarlet ✅
+AltStore/SideStore ⛔️ (Coming soon)
+
 
 # Alright! What apps are there to choose from?
 

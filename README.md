@@ -1,4 +1,4 @@
-Latest Version: v0.1
+Latest Version: v1.0
 
 # What is Lulu Library?
 

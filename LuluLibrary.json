@@ -54,14 +54,6 @@
 		
 	}],
 	"Tweaked Games": [{
-		"name": "Clash Royale",
-		"version": "3.3074.6",
-		"icon": "https://i.ibb.co/JyrFgpg/channels4-profile.jpg",
-		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/Clash_Royale_Z7MH.7Ki_v3.3074.6_6010303227440926049.ipa",
-		"category": "Tweaked Games",
-		"description": "Null's Royale for iOS!",
-		"enableBackup": true
-	}, {
 		"name": "Subway Surfers",
 		"version": "3.12.0",
 		"icon": "https://i.ibb.co/0fKBPD2/unnamed.png",

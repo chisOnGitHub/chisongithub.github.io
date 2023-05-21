@@ -31,7 +31,6 @@ To install, [click this link](https://pastebin.com/raw/WKe8GhBz), copy it, and a
 - Subway Surfers
 - BeReal
 - Instagram
-- BitLife
 
 # Changelog
 I changed the changelog, from now on it will be in the [releases tab](https://github.com/chisOnGitHub/chisongithub.github.io/releases).

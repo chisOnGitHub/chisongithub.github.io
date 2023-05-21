@@ -23,6 +23,9 @@ AltStore/SideStore ⛔️ (Coming soon)
 # Alright! What apps are there to choose from?
 
 - Deezer
+- Spotify
+- DolphiniOS
+- uYou+
 
 # Changelog
 **v1.0** (5/21/2023)

@@ -7,6 +7,7 @@ To install, click this link, copy it, and add it as a repo on Scarlet.
 # Sideloading Apps supported:
 
 Scarlet ✅
+
 AltStore/SideStore ⛔️ (Coming soon)
 
 

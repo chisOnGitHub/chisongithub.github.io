@@ -25,6 +25,9 @@ AltStore/SideStore ⛔️ (Coming soon)
 - Deezer
 
 # Changelog
+**v1.0** (5/21/2023)
+- Repo has been added!
+- DolphiniOS, Spotify, and uYou+ iPAs have been added.
 
 **v0.1** (5/21/2023)
 - Website launched from GitHub!

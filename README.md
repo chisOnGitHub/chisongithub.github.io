@@ -1,4 +1,4 @@
-Latest Version: v1.1.2
+Latest Version: v1.2
 Repo made by chisOnGitHub
 
 # What is Lulu Library?
@@ -28,8 +28,16 @@ To install, [click this link](https://pastebin.com/raw/WKe8GhBz), copy it, and a
 - DolphiniOS
 - uYou+
 - Subway Surfers
+- BeReal
+- Instagram
+- BitLife
 
 # Changelog
+**V1.2** (5/21/2023)
+- Added Instagram Rhino
+- Added BeReal Unblur
+- Added BitLife Bitizen
+
 **v1.1.2** (5/21/2023)
 - Fixed Subway Surfers iPA.
 - Changed JSON hosters. (Needs reinstall)

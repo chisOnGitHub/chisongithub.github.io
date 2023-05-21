@@ -1,3 +1,5 @@
+Latest Version: v0.1
+
 # What is Lulu Library?
 
 It is an all-in-one iOS IPA Library. Tweaked Apps, games, emulators, you name it.

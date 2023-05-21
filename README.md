@@ -15,9 +15,9 @@ To install, [click this link](https://raw.githubusercontent.com/chisOnGitHub/chi
 
 # Sideloading Apps supported:
 
-Scarlet ✅
+[Scarlet ✅](https://usescarlet.com)
 
-AltStore/SideStore ⛔️ (Coming soon)
+[AltStore](https://altstore.io)/[SideStore](https://sidestore.io/) ⛔️ (Coming soon)
 
 
 # Alright! What apps are there to choose from?

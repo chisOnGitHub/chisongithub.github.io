@@ -1,4 +1,4 @@
-Latest Version: v1.1
+Latest Version: v1.1.1
 Repo made by chisOnGitHub
 
 # What is Lulu Library?
@@ -29,6 +29,9 @@ To install, [click this link](https://raw.githubusercontent.com/chisOnGitHub/chi
 - uYou+
 
 # Changelog
+**v1.1.1** (5/21/2023)
+- Removed Clash Royale as iPA does not work.
+
 **v1.1** (5/21/2023)
 - Added Tweaked Games category!
 - Added modded Clash Royale and modded Subway Surfers.

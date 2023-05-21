@@ -27,6 +27,7 @@ To install, [click this link](https://pastebin.com/raw/WKe8GhBz), copy it, and a
 - Spotify
 - DolphiniOS
 - uYou+
+- Subway Surfers
 
 # Changelog
 **v1.1.2** (5/21/2023)

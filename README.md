@@ -4,6 +4,13 @@ It is an all-in-one iOS IPA Library. Tweaked Apps, games, emulators, you name it
 
 To install, click this link, copy it, and add it as a repo on Scarlet.
 
+# Features:
+
+- Automatic updates to IPA Library so you don't have to link everytime.
+- Apps constantly being updated.
+- Apps being constantly added.
+- Fast downloads.
+
 # Sideloading Apps supported:
 
 Scarlet ✅

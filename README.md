@@ -39,3 +39,5 @@ To install, [click this link](https://raw.githubusercontent.com/chisOnGitHub/chi
 **v0.1** (5/21/2023)
 - Website launched from GitHub!
 - Added the first IPA. Repo not avaliable yet.
+
+## [Click here if you want to download the IPAs directly instead of Sideloading them!](https://github.com/chisOnGitHub/chisongithub.github.io/releases/tag/ipas)

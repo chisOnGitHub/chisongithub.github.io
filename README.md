@@ -33,6 +33,9 @@ To install, [click this link](https://pastebin.com/raw/WKe8GhBz), copy it, and a
 - BitLife
 
 # Changelog
+**V1.2.1 FIXED VERSION** (5/21/2023)
+- Code stopped working suddenly and I had to go om a two hour fix that was only one change of code. However the repo is now working again!
+
 **V1.2** (5/21/2023)
 - Added Instagram Rhino
 - Added BeReal Unblur

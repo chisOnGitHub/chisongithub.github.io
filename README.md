@@ -1,4 +1,4 @@
-Latest Version: v1.01
+Latest Version: v1.1
 Repo made by chisOnGitHub
 
 # What is Lulu Library?
@@ -29,6 +29,11 @@ To install, [click this link](https://raw.githubusercontent.com/chisOnGitHub/chi
 - uYou+
 
 # Changelog
+**v1.1** (5/21/2023)
+- Added Tweaked Games category!
+- Added modded Clash Royale and modded Subway Surfers.
+- Renamed most of the categories to tweaked.
+
 **v1.01** (5/21/2023)
 - Fixed bad download links.
 

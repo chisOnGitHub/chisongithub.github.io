@@ -1,6 +1,6 @@
 {
 	"META": {
-		"repoName": "Lulu Library v1.1.1",
+		"repoName": "Lulu Library v1.1.2",
 		"repoIcon": "https://i.ibb.co/g7DhhTy/4-AC4-C361-C036-40-B9-BD3-C-F0-CDC309429-D.png"
 	},
 	"Tweaked Music": [{
@@ -57,7 +57,7 @@
 		"name": "Subway Surfers",
 		"version": "3.12.0",
 		"icon": "https://i.ibb.co/0fKBPD2/unnamed.png",
-		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/com.kiloo.subwaysurfers-3.12.0-robert-appdb.ipa",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/SubwaySurfers.3.7.3._6019085220085501742.ipa",
 		"category": "Tweaked Games",
 		"description": "Infinite coins and keys!",
 		"bundleID": "com.kiloo.subwaysurfers",

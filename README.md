@@ -1,4 +1,5 @@
-Latest Version: v0.2.1-beta
+Latest Version: v0.2.2-beta
+
 Repo made by chisOnGitHub
 
 # What is Lulu Library?

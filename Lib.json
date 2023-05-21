@@ -59,8 +59,7 @@
 		"description": "Infinite coins and keys!",
 		"bundleID": "com.kiloo.subwaysurfers",
 		"appstore": "com.kiloo.subwaysurfers"
-		},
-		{
+	}, {	
 		"name": "BitLife Bitizen",
 		"version": "1.45.1",
 		"icon": "https://i.ibb.co/rHFZZY3/unnamed.png",

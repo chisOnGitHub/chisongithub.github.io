@@ -1,12 +1,12 @@
 {
 	"META": {
-		"repoName": "Lulu Library v1.0",
+		"repoName": "Lulu Library v1.01",
 		"repoIcon": "https://i.ibb.co/g7DhhTy/4-AC4-C361-C036-40-B9-BD3-C-F0-CDC309429-D.png"
 	},
 	"Music": [{
 		"name": "Deezer",
 		"version": "7.15.0",
-		"down": "https://cdn-151.anonfiles.com/IbC6D6s2z7/856a2bb5-1684676742/Deezer%2B%2BiOS15.ipa",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/Deezer++iOS15.ipa",
 		"category": "Music",
 		"description": "All Deezer premium features unlocked.",
 		"bundleID": "com.deezer.Deezer",
@@ -14,7 +14,7 @@
 	}, {
 		"name": "Spotify",
 		"version": "8.6.42",
-		"down": "https://cdn-141.anonfiles.com/o3WbHds2za/928186a5-1684677662/Spotify.ipa",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/Spotify.ipa",
 		"category": "Music",
 		"description": "All Spotify premium features unlocked except for download.",
 		"bundleID": "com.spotify.client",
@@ -29,7 +29,7 @@
 	"Tweaked": [{
 		"name": "uYou+",
 		"version": "18.14.1",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/uYouPlus_18.14.1_3.0.ipa",
 		"category": "Tweaked Apps",
 		"description": "All YouTube premium features unlocked + uYou+ Tweaks.",
 		"bundleID": "com.google.ios.youtube",
@@ -47,7 +47,7 @@
 		"name": "DolphiniOS",
 		"version": "3.2.1",
 		"icon": "https://i.ibb.co/xLmnGhm/2048px-Dolphin-logo-svg.png",
-		"down": "https://cdn-153.anonfiles.com/t4S5Hdsbz7/c1470570-1684677095/DolphiniOS-NJB-3.2.1-213.ipa",
+		"down": "https://github.com/chisOnGitHub/chisongithub.github.io/releases/download/ipas/DolphiniOS-NJB-3.2.1-213.ipa",
 		"category": "Emulators",
 		"description": "DolphiniOS is a GameCube and Wii emulator for iOS and iPadOS. All iOS versions starting with 12.0 are supported, and no jailbreak is required!",
 		"enableBackup": true

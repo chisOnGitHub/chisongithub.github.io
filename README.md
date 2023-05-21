@@ -4,7 +4,7 @@ Latest Version: v1.01
 
 It is an all-in-one iOS IPA Library. Tweaked Apps, games, emulators, you name it.
 
-To install, click this link, copy it, and add it as a repo on Scarlet.
+To install, [click this link]([https://www.google.com](https://raw.githubusercontent.com/chisOnGitHub/chisongithub.github.io/main/LuluLibrary.json)), copy it, and add it as a repo on Scarlet.
 
 # Features:
 

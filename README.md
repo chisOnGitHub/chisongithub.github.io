@@ -15,3 +15,8 @@ AltStore/SideStore ⛔️ (Coming soon)
 
 - Deezer
 
+# Changelog
+
+**v0.1** (5/21/2023)
+- Website launched from GitHub!
+- Added the first IPA. Repo not avaliable yet.
